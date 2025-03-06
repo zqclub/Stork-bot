@@ -1,4 +1,17 @@
 # Stork-bot
+1️⃣ 安装插件
+➤ 下载Chrome扩展：https://chrome.google.com/webstore/detail/stork/knnliglhgkmlblppdejchidfihjnockl
+➤ 必填邀请码：WH4QKCVVF2
+
+2️⃣ 开启验证，截图留证
+✔️ 登录后，在设置中打开“数据验证”
+✔️ 进入 “推荐”页面，完整截图
+
+3️⃣ 提交证明
+➤ 加入官方Discord：http://discord.gg/storkoracle 
+➤ 在 #stork-verify 频道上传截图，申请 “Alpha测试者”身份
+➤ 保持数据验证开启！后续靠它赚积分换奖励！
+
 ## 使用说明
 ### 克隆存储库：
 ```bash
